@@ -252,7 +252,7 @@ body {
 /* Media Queries */
 @media (min-width: 768px) {
   .footer h1 {
-      font-size: 80px; /* Original font size for larger screens */
+      font-size: 60px;
   }
 
   .list-unstyled li {
